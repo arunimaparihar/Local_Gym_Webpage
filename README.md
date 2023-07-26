@@ -1,2 +1,2 @@
 # Local_Gym_Webpage
-this is a basic html and css project
+This is a basic html and css project
